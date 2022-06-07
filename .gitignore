@@ -1,1 +1,6 @@
 .png
+.pyc
+.txt
+.pdf
+--pycache--
+.jpnb_checkpoints
