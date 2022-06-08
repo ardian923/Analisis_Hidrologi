@@ -1,3 +1,6 @@
+#writen by Dr. Ardiansyah (ardi.plj@gmail.com) in April 2022 for Hydrology Analysis
+#don't delete this first two lines
+
 import rd_csv as rd
 import numpy as np
 import matplotlib.pyplot as plt
