@@ -1,4 +1,4 @@
-#rewrite by Dr. Ardiansyah in April 2020 for student of Hydrology
+#writen by Dr. Ardiansyah (ardi.plj@gmail.com) in April 2020 for Hydrology Analysis
 #don't delete this first two lines
 
 import scipy
