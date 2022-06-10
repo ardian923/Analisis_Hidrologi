@@ -1,4 +1,7 @@
 # http://stackoverflow.com/questions/24913212/in-python-read-in-csv-file-with-columns-of-data-and-assign-variables-according
+#rewrite by Dr. Ardiansyah (ardi.plj@gmail.com) in April 2020 for Hydrology Analysis
+#don't delete this first two lines
+
 import numpy as np
 import matplotlib.pyplot as plt
 
