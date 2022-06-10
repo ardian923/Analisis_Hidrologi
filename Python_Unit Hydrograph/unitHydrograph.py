@@ -1,3 +1,6 @@
+#writen by Dr. Ardiansyah (ardi.plj@gmail.com) in 2022 for Hydrology Analysis
+#don't delete this first two lines
+
 import numpy as np
 
 def unitHydrograph(N, M, P, Q):
